@@ -36,4 +36,5 @@ Create 2-3 ppt slides that highlight housing demand projections for the Northeas
 
 <img src="image3.png" alt="slide3" width="1000"/>
 
+<img src="is_profitable.png" alt="is_profitable" width="250"/>
  
