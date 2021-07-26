@@ -30,10 +30,10 @@ Create 2-3 ppt slides that highlight housing demand projections for the Northeas
  - see census data: data_sources folder
 
 
-<img src="img/1.png" alt="slide1" width="1000"/>
+<img src="1.png" alt="slide1" width="1000"/>
 
-<img src="img/2.png" alt="slide2" width="1000"/>
+<img src="2.png" alt="slide2" width="1000"/>
 
-<img src="img/3.png" alt="slide3" width="1000"/>
+<img src="3.png" alt="slide3" width="1000"/>
 
  
