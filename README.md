@@ -24,6 +24,8 @@ Create 2-3 ppt slides that highlight housing demand projections for the Northeas
 
 ## My Answer
 
+**read the Case_Study_Answer.pdf file**
+
 **Additional Notes**
  - for the code, see: case_study.R file
  - about census data: mhs_puf_documentation2017.pdf
@@ -31,8 +33,3 @@ Create 2-3 ppt slides that highlight housing demand projections for the Northeas
  - see readme.ipynb to see the slides screenshots; I don't know why my images not working in github
 
 
-<img src="slide_first.png" alt="slide1" width="800"/>
-
-<img src="slide_second.png" alt="slide2" width="800"/>
-
-<img src="slide_third.png" alt="slide3" width="800"/>
